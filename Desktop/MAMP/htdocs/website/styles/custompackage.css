@@ -1,0 +1,19 @@
+.custom{
+	background-color: #8BFCE4;
+	border: 2px dotted black;
+	border-radius: 5px;
+	color: #777;
+	font-family: arial;
+	font-size: 18pt;
+	padding: 15px;
+}
+
+.new{
+	background: #8BFCE4;
+	border: 2px dotted black;
+	border-radius: 5px;
+	color: #777;
+	font-family: arial;
+	font-size: 36pt;
+	padding: 15px;
+}
